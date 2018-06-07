@@ -1,0 +1,1 @@
+module.exports = (list, index) => list.splice(index, 1);
